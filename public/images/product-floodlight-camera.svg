@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#f1f0e9"/>
+  <rect x="100" y="150" width="400" height="150" rx="15" fill="#333732"/>
+  <circle cx="200" cy="225" r="40" fill="#252824"/>
+  <circle cx="200" cy="225" r="25" fill="#c9ef69" opacity="0.3"/>
+  <circle cx="200" cy="225" r="15" fill="#1a1d1a"/>
+  <circle cx="400" cy="225" r="40" fill="#252824"/>
+  <circle cx="400" cy="225" r="25" fill="#c9ef69" opacity="0.3"/>
+  <circle cx="400" cy="225" r="15" fill="#1a1d1a"/>
+  <rect x="280" y="210" width="40" height="30" rx="5" fill="#454a44"/>
+  <rect x="220" y="320" width="160" height="20" rx="5" fill="#333732"/>
+  <text x="300" y="380" text-anchor="middle" font-family="Arial" font-size="14" fill="#20251f">Beacon Floodlight Cam</text>
+</svg>

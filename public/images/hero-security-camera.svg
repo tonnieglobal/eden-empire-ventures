@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#deddd3"/>
+  <rect x="400" y="200" width="400" height="400" rx="20" fill="#333732"/>
+  <circle cx="600" cy="400" r="120" fill="#252824"/>
+  <circle cx="600" cy="400" r="80" fill="#c9ef69" opacity="0.3"/>
+  <circle cx="600" cy="400" r="40" fill="#1a1d1a"/>
+  <rect x="550" y="550" width="100" height="30" rx="5" fill="#454a44"/>
+  <rect x="580" y="580" width="40" height="120" rx="5" fill="#333732"/>
+  <text x="600" y="700" text-anchor="middle" font-family="Arial" font-size="16" fill="#20251f">VIGIL Outdoor Camera</text>
+</svg>
